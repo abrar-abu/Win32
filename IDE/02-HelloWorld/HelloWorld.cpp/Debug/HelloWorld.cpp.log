@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  HelloWorld.cpp.cpp
+d:\abrar\windows\ide\02-helloworld\helloworld.cpp\helloworld.cpp.cpp(257): warning C4008: 'WinMain': 'static' attribute ignored
+  HelloWorld.cpp.vcxproj -> D:\Abrar\Windows\IDE\02-HelloWorld\HelloWorld.cpp\Debug\HelloWorld.cpp.exe
+  HelloWorld.cpp.vcxproj -> D:\Abrar\Windows\IDE\02-HelloWorld\HelloWorld.cpp\Debug\HelloWorld.cpp.pdb (Partial PDB)
+d:\abrar\windows\ide\02-helloworld\helloworld.cpp\helloworld.cpp.cpp(187): warning C28251: Inconsistent annotation for 'WinMain': this instance has no annotations. See c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winbase.h(909). 
